@@ -6,6 +6,14 @@
 
 ## Настройки Git
 
+При первом использовании Git необходимо представиться
+
+например:
+```
+ git config --global user.name "John Doe"
+
+ git config --global user.email johndoe@example.com
+ ```
 ## Игнорирование файлов
 
 ## Создание веток в Git
