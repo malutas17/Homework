@@ -8,8 +8,12 @@ Git — это распределенная система управления 
 
 ## Установка Git
 
+<<<<<<< HEAD
 Прежде чем использовать Git, его надо установить его на своём компьютере.
 ерейдите на страницу [https://git-scm.com/download/win](https://git-scm.com/download/win), и загрузка запустится автоматически.
+=======
+[Загружаем последнюю версию Git с сайта https://git-scm.com/downloads](https://git-scm.com/downloads). Устанавливаем с настройками по умолчанию.
+>>>>>>> installationBranch
 
 ## Настройки Git
 
